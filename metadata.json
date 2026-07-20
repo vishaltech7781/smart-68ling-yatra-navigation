@@ -1,0 +1,6 @@
+{
+  "name": "Smart 68 Ling Yatra Navigation",
+  "description": "A comprehensive navigation and management platform for pilgrims doing the 68 Ling Yatra in Solapur, with route optimization, live crowd heatmaps, QR tracking, SOS dispatch, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
